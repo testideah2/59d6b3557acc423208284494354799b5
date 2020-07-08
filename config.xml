@@ -5,7 +5,7 @@
         xmlns:cdv="http://cordova.apache.org/ns/1.0"
         id          = "top.bitbot.app"
         versionCode = "10"
-        version     = "1.0.0">
+        version     = "1.1.0">
 
     <name>ТЕСТ. bitbot.top</name>
 
@@ -47,10 +47,10 @@
         <icon src="res/android/icon/d5ac575a28b837887a770434328c99e3.png" density="xxhdpi" />
         <icon src="res/android/icon/eebeca4ddf00c0c24fc417577dadcc14.png" density="xxxhdpi" />
 
-        <splash src="res/android/screen/9a53d6b7141d734c2ef605f82bc76629.png" density="port-hdpi"/>
-        <splash src="res/android/screen/14598522b12b0a5086cf347cffdfb696.png" density="port-ldpi"/>
-        <splash src="res/android/screen/79447d2c4b8081c277149bef7e2da875.png" density="port-mdpi"/>
-        <splash src="res/android/screen/be0a3bd50cd3966420a5b2426e9fbe25.png" density="port-xhdpi"/>
+        <splash src="res/android/screen/39adbed676938daeb941544658353adf.png" density="port-hdpi"/>
+        <splash src="res/android/screen/8c41d96f16631b5c53bc0dbe406ae75c.png" density="port-ldpi"/>
+        <splash src="res/android/screen/ed9a70832418cbb16887ad0be749982d.png" density="port-mdpi"/>
+        <splash src="res/android/screen/c433d35d835b85d8e07b48ff9cd9d1ad.png" density="port-xhdpi"/>
     </platform>
 
     <platform name="ios">
@@ -69,12 +69,12 @@
         <icon src="res/ios/icon/042226531a38fa82acad88457d2dff17.png" width="87" height="87" />
         <icon src="res/ios/icon/cc45b151539165eb7d5896ddd6a35c93.png" width="167" height="167" />
 
-        <splash src="res/ios/screen/4c739423bf10860711acf3b8434c4514.png" />
-        <splash src="res/ios/screen/6e8fe6f8080a4867415b6655c37370c6.png" />
-        <splash src="res/ios/screen/c5f2af4fabf17627bcf5e67cac7462f2.png" />
-        <splash src="res/ios/screen/8ea989e526154fc9e3768994c3746938.png" />
-        <splash src="res/ios/screen/22719ac3f8232102e18d7f4557f466bf.png" />
-        <splash src="res/ios/screen/c643b50ac4f60cf954bfd9130b6ff52b.png" />
+        <splash src="res/ios/screen/ce23413f4a5a25d5f392fda768e0634e.png" />
+        <splash src="res/ios/screen/d4d3761458cf3b09718440ea152ab03a.png" />
+        <splash src="res/ios/screen/31b13497f5095aa0fd41de42d77b5cad.png" />
+        <splash src="res/ios/screen/640c2bfa5cc54768be26fe12adfa2d10.png" />
+        <splash src="res/ios/screen/5aed4fa590d77cbaf939f922485518cc.png" />
+        <splash src="res/ios/screen/2462bb72c537c71c5d3c40a41d0a6388.png" />
     </platform>
 
     <platform name="winphone">
@@ -86,8 +86,8 @@
         <icon src="res/windows/icon/5bd1a71fbf634f771ab72b8451d79611.png" target="Square150x150Logo" />
         <icon src="res/windows/icon/4ec78784553b04574a7a6cf9e4f169c2.png" target="Square310x310Logo" />
 
-        <splash src="res/windows/screen/a08e4fe3a8b4b85c3b320089d34be87d.png" target="SplashScreen"/>
-        <splash src="res/windows/screen/50d1ab8da104774db98cef71fb13f4a6.png" target="SplashScreenPhone"/>
+        <splash src="res/windows/screen/82bb3e0812fba947012352385149da2b.png" target="SplashScreen"/>
+        <splash src="res/windows/screen/d3b7e2b860cb7c565d0684bcda743393.png" target="SplashScreenPhone"/>
     </platform>
 
     <access origin='*'/>
